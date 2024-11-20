@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hajimijimijiha
 - 👀 I’m interested in **video games and open-source projects.**
 - 🌱 I’m currently learning **everything I'm interested in.**
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on hachimi.
 - 📫 How to reach me:  
   - **Email:** hajimijimijiha@outlook.com
 - 😄 Pronouns: **Hachimi**
