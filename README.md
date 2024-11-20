@@ -5,7 +5,7 @@
 - 📫 How to reach me:  
   - **Email:** hajimijimijiha@outlook.com
 - 😄 Pronouns: **Hachimi**
-- ⚡ Fun fact: Hachimi's reaction speed is seven times that of a human.
+- ⚡ Fun fact: *Hachimi's reaction speed is seven times that of a human.*
 
 <!---
 hajimijimijiha/hajimijimijiha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
