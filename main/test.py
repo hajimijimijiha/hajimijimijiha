@@ -1,11 +1,7 @@
 output = """
-Hachimi Hachimi Hachimi Hachimi
 
-Hachimi Hachimi, Wonamieruto
+This is a TEST text.
 
-Ashiga Ashiga Ashiga Ashiga
-
-Ashiga Hayaku Naru
 """
 
 print(output)
